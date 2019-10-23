@@ -23,7 +23,7 @@ body, input, button {
 }
 
 .container {
-  margin: 80px auto 0;
+  margin: 60px auto 0;
   max-width: 450px;
   width: 100%;
   display: flex;
@@ -34,15 +34,8 @@ body, input, button {
 .content {
   width: 90%;
   background: #FFF;
-  margin-top: 50px;
   border-radius: 4px;
-  padding: 30px;
-}
-
-.content > p {
-  font-size: 22px;
-  line-height: 30px;
-  margin-bottom: 30px;
+  padding: 20px;
 }
 
 .content textarea {
@@ -50,7 +43,7 @@ body, input, button {
   width: 100%;
   border: 1px solid #ddd;
   border-radius: 4px;
-  height: 135px;
+  height: 250px;
   padding: 0 15px;
   font-size: 16px;
 }
