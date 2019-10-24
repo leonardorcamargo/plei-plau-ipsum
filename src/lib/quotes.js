@@ -6,5 +6,15 @@ export const pleiQuotes = [
   'A parada vai ficar sinistra com esse vagabundo bizarro que vai descaralhar a porra toda.',
   'Fiz um acoxambro em php que ficou glorioso.',
   'Fazer um framework node pra vagabundo bater.',
-  'Vamo dar carinho pro cliente.'
+  'Vamo dar carinho pro cliente.',
+  'Vamu engravidá o vagabundo.',
+  'Vai ser glorioso.',
+  'Pega o vagabundo.',
+  'Vagabundo fabuloso descaralha a porra toda.',
+  'Cria uma API de objeto de objeto.',
+  'Vai gerar um objeto de objeto.',
+  'Da um plei no coiso.',
+  'Engravida o safado com o coiso.',
+  'Faz uma função que da um get no coiso.',
+  'Retorna o vagabundo.',
 ];
